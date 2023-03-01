@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  color: #;
+  color: #2e62ff;
   text-decoration: none;
 }
 
@@ -364,7 +364,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: #2e62ff;
   margin: 4px 10px;
 }
 
